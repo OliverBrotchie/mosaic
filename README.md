@@ -4,7 +4,7 @@
 
 A simple HTML module compiler written in Rust. See [oohtml](https://github.com/webqit/oohtml) for specification and JS polyfil version.
 
-To begin with, this project will only support importing HTML/CSS; but in future may also support Javascript.
+> To begin with, this project will only support importing HTML/CSS; but in future may also support Javascript.
 
 ### Build
 
@@ -20,4 +20,5 @@ git clone https://github.com/OliverBrotchie/mosaic.git && cd mosaic && cargo ins
 ```
 
 ## Contributions
+
 Any and all contributions are welcome! Just create a pull request and we can discuss the changes.
